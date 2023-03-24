@@ -20,4 +20,8 @@ Created a solution composed of:
 - the test project to test different scenarios
 
 Here is a screenshot of the Tests scenarios that passed:
-- <img width="396" alt="UnitTestScreenshots" src="https://user-images.githubusercontent.com/128790167/227481353-15f9882a-871a-4755-978e-0c57c73202c4.PNG">
+> <img width="396" alt="UnitTestScreenshots" src="https://user-images.githubusercontent.com/128790167/227481353-15f9882a-871a-4755-978e-0c57c73202c4.PNG">
+
+
+After cloning the repository please do a rebuild/build and run the application. 
+You may also run the test afterwards.
