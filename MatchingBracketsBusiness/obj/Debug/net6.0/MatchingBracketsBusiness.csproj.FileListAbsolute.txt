@@ -1,0 +1,12 @@
+C:\Docs\ExamProSource\MatchingBracketsBusiness\bin\Debug\net6.0\MatchingBracketsBusiness.deps.json
+C:\Docs\ExamProSource\MatchingBracketsBusiness\bin\Debug\net6.0\MatchingBracketsBusiness.dll
+C:\Docs\ExamProSource\MatchingBracketsBusiness\bin\Debug\net6.0\MatchingBracketsBusiness.pdb
+C:\Docs\ExamProSource\MatchingBracketsBusiness\obj\Debug\net6.0\MatchingBracketsBusiness.csproj.AssemblyReference.cache
+C:\Docs\ExamProSource\MatchingBracketsBusiness\obj\Debug\net6.0\MatchingBracketsBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Docs\ExamProSource\MatchingBracketsBusiness\obj\Debug\net6.0\MatchingBracketsBusiness.AssemblyInfoInputs.cache
+C:\Docs\ExamProSource\MatchingBracketsBusiness\obj\Debug\net6.0\MatchingBracketsBusiness.AssemblyInfo.cs
+C:\Docs\ExamProSource\MatchingBracketsBusiness\obj\Debug\net6.0\MatchingBracketsBusiness.csproj.CoreCompileInputs.cache
+C:\Docs\ExamProSource\MatchingBracketsBusiness\obj\Debug\net6.0\MatchingBracketsBusiness.dll
+C:\Docs\ExamProSource\MatchingBracketsBusiness\obj\Debug\net6.0\refint\MatchingBracketsBusiness.dll
+C:\Docs\ExamProSource\MatchingBracketsBusiness\obj\Debug\net6.0\MatchingBracketsBusiness.pdb
+C:\Docs\ExamProSource\MatchingBracketsBusiness\obj\Debug\net6.0\ref\MatchingBracketsBusiness.dll

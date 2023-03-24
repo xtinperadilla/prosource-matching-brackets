@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MatchingBrackets/1.0.0": {
+        "dependencies": {
+          "MatchingBracketsBusiness": "1.0.0"
+        },
+        "runtime": {
+          "MatchingBrackets.dll": {}
+        }
+      },
+      "MatchingBracketsBusiness/1.0.0": {
+        "runtime": {
+          "MatchingBracketsBusiness.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MatchingBrackets/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MatchingBracketsBusiness/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
